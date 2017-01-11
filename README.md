@@ -4,6 +4,13 @@
 This is **NOT** a grid layout system or a complete CSS framework. On contrary,
 **Flex Hero** can be used with any other CSS framework, like Bootstrap.
 
+## Installation ##
+**Flex Hero** is availabe on Bower and NPM:
+```
+bower install flex-hero
+npm install flex-hero
+```
+
 ## Documentations ##
 Each class of the *Flex Hero* library starts with the `fh-` prefix.
 
