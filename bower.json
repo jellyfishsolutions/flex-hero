@@ -1,0 +1,25 @@
+{
+  "name": "flex-hero",
+  "description": "Flex Hero is a simple CSS library to exploit flexbox layouts.",
+  "main": "src/flex-hero.css",
+  "authors": [
+    "luca.roverelli@gmail.com"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "flex",
+    "css",
+    "bootstap",
+    "flex",
+    "hero",
+    "flex-hero"
+  ],
+  "homepage": "https://github.com/jellyfishsolutions/flex-hero",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

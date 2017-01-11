@@ -1,0 +1,34 @@
+{
+  "name": "flex-hero",
+  "version": "1.0.0",
+  "description": "Flex Hero is a simple CSS library to exploit flexbox layouts.",
+  "keywords": [
+      "flex",
+      "css",
+      "bootstap",
+      "flex hero",
+      "flex-hero"
+  ],
+  "main": "src/flex-hero.css",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jellyfishsolutions/flex-hero.git"
+  },
+  "author": "luca.roverelli@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jellyfishsolutions/flex-hero/issues"
+  },
+  "homepage": "https://github.com/jellyfishsolutions/flex-hero#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-sourcemaps": "^2.3.1"
+  }
+}
