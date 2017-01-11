@@ -1,0 +1,33 @@
+.example {
+    height: 400px;
+    border: 1px #ddd solid;
+    background: #FFEEE8;
+    color: #544F62;
+    font-weight: bold;
+}
+
+
+.green {
+    background: #46C2A6;
+}
+
+.red {
+    background: #FF6F75;
+}
+
+.blue {
+    background: #4BB7DD;
+}
+
+.padding {
+    padding: 1em;
+}
+
+.big {
+    font-size: 2em;
+}
+
+.fix-width {
+    width: 100px;
+    text-align: center;
+}
